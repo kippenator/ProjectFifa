@@ -21,3 +21,10 @@ header {
     padding: 10px 0 15px 0;
     margin-bottom: 20px;
 }
+
+.content {
+	background-color: #e0e0e0;
+    height: 500px;
+    box-shadow: 0px 3px 6px 1px #c1c1c1;
+    padding: 20px;
+}
